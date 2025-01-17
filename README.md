@@ -26,7 +26,7 @@ This section should provide instructions on setting up the project locally. Here
 2. Clone the repository:
    ```sh
    git clone https://github.com/Wizardking321/Task_Master.git
-   cd kanbanKraft
+   cd Task_Master
    ```
 3. Make a virtual env
    ```sh
