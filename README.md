@@ -25,7 +25,7 @@ This section should provide instructions on setting up the project locally. Here
 1. Install Git , Python
 2. Clone the repository:
    ```sh
-   git clone https://github.com/rapo7/kanbanKraft.git
+   git clone https://github.com/Wizardking321/Task_Master.git
    cd kanbanKraft
    ```
 3. Make a virtual env
