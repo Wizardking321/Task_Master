@@ -1,4 +1,4 @@
-# KanbanKraft
+# Task Master
 
 ## About The Project
 
